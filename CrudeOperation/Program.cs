@@ -22,7 +22,7 @@ class Program
         var updatedPerson = manager.Read(person1.Id);
         Console.WriteLine($"\nUpdated person: Id: {updatedPerson.Id}, Name: {updatedPerson.Name}, Age: {updatedPerson.Age}");
 
-        // Delete
+        // Delete grtgfrgfgf
         manager.Delete(person2.Id);
 
         // Read all after deletion

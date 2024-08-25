@@ -1,0 +1,14 @@
+C:\Users\Rezowan\source\repos\CrudeOperation\CrudeOperation\bin\Debug\net7.0\CrudeOperation.exe
+C:\Users\Rezowan\source\repos\CrudeOperation\CrudeOperation\bin\Debug\net7.0\CrudeOperation.deps.json
+C:\Users\Rezowan\source\repos\CrudeOperation\CrudeOperation\bin\Debug\net7.0\CrudeOperation.runtimeconfig.json
+C:\Users\Rezowan\source\repos\CrudeOperation\CrudeOperation\bin\Debug\net7.0\CrudeOperation.dll
+C:\Users\Rezowan\source\repos\CrudeOperation\CrudeOperation\bin\Debug\net7.0\CrudeOperation.pdb
+C:\Users\Rezowan\source\repos\CrudeOperation\CrudeOperation\obj\Debug\net7.0\CrudeOperation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rezowan\source\repos\CrudeOperation\CrudeOperation\obj\Debug\net7.0\CrudeOperation.AssemblyInfoInputs.cache
+C:\Users\Rezowan\source\repos\CrudeOperation\CrudeOperation\obj\Debug\net7.0\CrudeOperation.AssemblyInfo.cs
+C:\Users\Rezowan\source\repos\CrudeOperation\CrudeOperation\obj\Debug\net7.0\CrudeOperation.csproj.CoreCompileInputs.cache
+C:\Users\Rezowan\source\repos\CrudeOperation\CrudeOperation\obj\Debug\net7.0\CrudeOperation.dll
+C:\Users\Rezowan\source\repos\CrudeOperation\CrudeOperation\obj\Debug\net7.0\refint\CrudeOperation.dll
+C:\Users\Rezowan\source\repos\CrudeOperation\CrudeOperation\obj\Debug\net7.0\CrudeOperation.pdb
+C:\Users\Rezowan\source\repos\CrudeOperation\CrudeOperation\obj\Debug\net7.0\CrudeOperation.genruntimeconfig.cache
+C:\Users\Rezowan\source\repos\CrudeOperation\CrudeOperation\obj\Debug\net7.0\ref\CrudeOperation.dll
